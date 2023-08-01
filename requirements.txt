@@ -1,0 +1,2 @@
+argparse==1.4.0
+tifffile==2023.7.18
