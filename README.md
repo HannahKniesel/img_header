@@ -31,12 +31,11 @@ Now you should be all setup to run the script by
 ## Use img_header
 1. Open Terminal
 2. Open img_header. Example: If img_header is installed on desktop: cd "path to file"
-Tipp: write cd and drag img_header folder into Terminal
-3. If conda is installed, it needs to be activated: conda activate img_header
+Tipp: write cd, drag and drop img_header folder into Terminal
+3. Activate conda: conda activate img_header
 4. Read out tif properties: python Main.py --path "path to image"
-=> img_header is reading tif properties
-Tipp: Drag Jeol1400 image into Terminal instead of write path manual.
-5. If conda is installed, it needs to be deactivated at the end: conda deactivate
+Tipp: Drag and drop Jeol1400 image into Terminal instead of write path manual.
+5. At the end deactivate conda: conda deactivate
 
 ## Example
 ![Example of using img_header for Jeol1400 images](Example.PNG)
