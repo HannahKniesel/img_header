@@ -27,12 +27,6 @@ Now you should be all setup to run the script by
 `python Main.py --path PATH_TO_IMG`
 
 
-Python version: 
-Install [img_header](https://github.com/HannahKniesel/img_header.git) from GitHub.
-
-Requirements:
-argparse==1.4.0
-tifffile==2023.7.18
 
 ## Use img_header
 1. Open Terminal
@@ -45,7 +39,7 @@ Tipp: Drag Jeol1400 image into Terminal instead of write path manual.
 5. If conda is installed, it needs to be deactivated at the end: conda deactivate
 
 ## Example
-![Example of using img_header for Jeol1400 images](Example.png)
+![Example of using img_header for Jeol1400 images](Example.PNG)
 
 ## Use pixelsize in Fiji
 1. Open Image in Fiji
